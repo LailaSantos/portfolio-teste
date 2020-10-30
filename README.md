@@ -16,6 +16,7 @@ https://lailasantos.github.io/portfolio-teste/ esse é o resultado, vlws.
 
 ### Obs: Usei as imagens desse site: https://blush.design/pt/collections.
 
+Obs: Ele não tá responsivo, tô estudando pra melhorar essa parte.
 
 ####  Feito com :purple_heart:  by - Laila Roberta :v:.
 
