@@ -12,7 +12,7 @@ Esse projeto foi um desafio para fazer um portfólio usando apenas html e css, t
 
 https://lailasantos.github.io/portfolio-teste/ esse é o resultado, vlws.
 
-*Dica: abre em outra aba, assim ele não abre do nada nessa que vc tá olhando.
+*Dica: abre em outra aba, assim ele não abre do nada nessa que você tá olhando.
 
 ### Obs: Usei as imagens desse site: https://blush.design/pt/collections.
 
