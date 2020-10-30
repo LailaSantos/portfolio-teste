@@ -10,7 +10,8 @@ Esse projeto foi um desafio para fazer um portfólio usando apenas html e css, t
 
 ## Link do Projetinho
 
-https://lailasantos.github.io/portfolio-teste/ e o resultado foi esse, vlws, flws.
+<a href="https://lailasantos.github.io/portfolio-teste/" target="_blank">Resultado</a>
+
 
 ### Obs: Usei as imagens desse site: https://blush.design/pt/collections.
 
